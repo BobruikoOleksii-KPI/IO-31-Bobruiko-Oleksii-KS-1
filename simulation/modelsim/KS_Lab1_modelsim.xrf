@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, D:/Program Files (x86)/Quartus/Lab1/KS_Lab1.bdf
+source_file = 1, D:/Program Files (x86)/Quartus/Lab1/KS_Lab1.vwf
+source_file = 1, D:/Program Files (x86)/Quartus/Lab1/db/KS_Lab1.cbx.xml
+design_name = KS_Lab1
+instance = comp, \f4_ddnf~output\, f4_ddnf~output, KS_Lab1, 1
+instance = comp, \f4_dknf~output\, f4_dknf~output, KS_Lab1, 1
+instance = comp, \x1_ddnf~input\, x1_ddnf~input, KS_Lab1, 1
+instance = comp, \x1_dknf~input\, x1_dknf~input, KS_Lab1, 1
+instance = comp, \x3_ddnf~input\, x3_ddnf~input, KS_Lab1, 1
+instance = comp, \x2_ddnf~input\, x2_ddnf~input, KS_Lab1, 1
+instance = comp, \x3_dknf~input\, x3_dknf~input, KS_Lab1, 1
+instance = comp, \x2_dknf~input\, x2_dknf~input, KS_Lab1, 1

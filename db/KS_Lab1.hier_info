@@ -1,0 +1,18 @@
+|KS_Lab1
+f4_ddnf <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+x1_ddnf => inst2.IN0
+x1_ddnf => inst4.IN0
+x1_ddnf => inst5.IN0
+x1_ddnf => inst3.IN0
+x3_ddnf => inst.IN0
+x3_ddnf => inst5.IN1
+x2_ddnf => inst4.IN1
+x2_ddnf => inst1.IN0
+f4_dknf <= inst16.DB_MAX_OUTPUT_PORT_TYPE
+x3_dknf => inst10.IN0
+x3_dknf => inst14.IN0
+x1_dknf => inst8.IN0
+x2_dknf => inst9.IN0
+x2_dknf => inst13.IN0
+
+
